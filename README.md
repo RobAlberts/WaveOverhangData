@@ -14,7 +14,7 @@ This repository contains all supplementary data for the BSc research paper inves
 
 Six polymer grades were printed across six test geometries. Each specimen was 3D-scanned and compared against the original CAD model to produce surface deviation heatmaps. RMS deviation is used as the primary metric.
 
-> \*\*Paper:\*\* \*Investigating different materials' effect on support-free 3D printing\*
+> \\\*\\\*Paper:\\\*\\\* \\\*Investigating different materials' effect on support-free 3D printing\\\*
 > R. Alberts, J.A. Andersons — University of Twente, 2026
 
 \---
@@ -27,6 +27,8 @@ WaveOverhangData/
 ├── Deviations/                  # CSV deviation exports and heatmap images from Zeiss Inspect
 ├── Final Test Samples gcode/    # Sliced G-code for each material × sample combination
 ├── Preliminary Testing GCode/   # G-code used during TS00 monolayer calibration per material
+
+├── Scanned Samples/             # Raw 3D scan mesh files (.stl) per specimen
 └── Zeiss Inspect/               # Zeiss Quality Suite project files and raw inspection data
 ```
 
