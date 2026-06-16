@@ -23,14 +23,18 @@ Six polymer grades were printed across six test geometries. Each specimen was 3D
 
 ```
 WaveOverhangData/
-├── CAD Models/                  # Reference CAD files for all test geometries (TS01–TS06)
-├── Deviations/                  # CSV deviation exports and heatmap images from Zeiss Inspect
-├── Final Test Samples gcode/    # Sliced G-code for each material × sample combination
-├── Preliminary Testing GCode/   # G-code used during TS00 monolayer calibration per material
 
-├── Scanned Samples/             # Raw 3D scan mesh files (.stl) per specimen
-└── Zeiss Inspect/               # Zeiss Quality Suite project files and raw inspection data
-```
+├── CAD Models/                 # Reference CAD files for all test geometries (TS01–TS06)
+
+├── Deviations/                 # CSV deviation exports and heatmap images from Zeiss Inspect
+
+├── Final Test Samples gcode/   # Sliced G-code for each material × sample combination
+
+├── Preliminary Testing GCode/  # G-code used during TS00 monolayer calibration per material
+
+├── Scanned Samples/            # Raw 3D scan mesh files (.stl) per specimen
+
+└── Zeiss Inspect/              # Zeiss Quality Suite project files and raw inspection data```
 
 \---
 
