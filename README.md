@@ -34,7 +34,9 @@ WaveOverhangData/
 
 ├── Scanned Samples/            # Raw 3D scan mesh files (.stl) per specimen
 
-└── Zeiss Inspect/              # Zeiss Quality Suite project files and raw inspection data```
+└── Zeiss Inspect/              # Zeiss Quality Suite project files and raw inspection data
+
+```
 
 \---
 
